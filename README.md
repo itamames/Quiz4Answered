@@ -3,7 +3,7 @@
 1) Which key and collision method is the following using? Write the code that finds the position.
 
 
-![sort](Sort1.png)
+![sort](Sort1a.png)
 
 Is using a Hashset with a key % Tablesize with a quadratic collision.
 ```java
